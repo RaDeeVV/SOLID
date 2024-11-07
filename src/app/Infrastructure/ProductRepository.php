@@ -2,6 +2,7 @@
 
 namespace App\Infrastructure;
 
+
 use App\Domain\Product;
 use App\Interfaces\ProductRepositoryInterface;
 
